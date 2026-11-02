@@ -1,0 +1,10 @@
+{
+  "FirstToSecondClickMs": 800,
+  "SecondClickToEMs": 300,
+  "ClickHoldMs": 40,
+  "KeyHoldMs": 40,
+  "PauseBetweenCyclesMs": 1500,
+  "PauseAfterCommittedMs": 3000,
+  "EProbabilityPercent": 50,
+  "GameProcessName": "forhonor"
+}

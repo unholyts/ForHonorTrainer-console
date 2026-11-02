@@ -1,0 +1,25 @@
+# Build output
+**/bin/
+**/obj/
+/publish/
+/artifacts/
+
+# Editor files
+.vs/
+.idea/
+*.user
+*.suo
+
+# Local settings and credentials
+.env
+.env.*
+!.env.example
+*.pfx
+*.p12
+
+# Distribute binaries as release assets
+*.exe
+*.dll
+*.pdb
+*.zip
+*.log
